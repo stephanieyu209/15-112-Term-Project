@@ -11,5 +11,3 @@ no bombs, but you have 60 seconds to slice up as many fruits as you can. You can
 color of your blade and the background image of the game mode in the Settings menu. 
 After the game ends, you can view your score and try to beat your high score in the next game!
 
-How to run the project:
-You can simply press command + b to run the project. 
